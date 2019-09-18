@@ -89,7 +89,7 @@ public class Game {
             communityCards[5]=deck.dealCard();
         } else {
             deck.Shuffle(2);
-            dealFlop(); 
+            dealFlop();
         }
     }
 
